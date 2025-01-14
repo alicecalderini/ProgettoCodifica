@@ -8,7 +8,7 @@ java -cp "Xerces-J-bin.2.12.1\xerces-2_12_1\*" dom.Counter -v progetto.xml
 ```
 L'output è
 ```
-progetto.xml: 304;29;0 ms (3151 elems, 11958 attrs, 23923 spaces, 53932 chars)
+progetto.xml: 368;57;1 ms (3151 elems, 11958 attrs, 23923 spaces, 53916 chars)
 ```
 
 # Trasformazione attraverso XSLT
