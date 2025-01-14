@@ -14,6 +14,6 @@ progetto.xml: 368;57;1 ms (3151 elems, 11958 attrs, 23923 spaces, 53916 chars)
 # Trasformazione attraverso XSLT
 per la creazione dell'HTML è stato utilizzato SaxonHE12-5J 
 ```
- java -jar saxon-he-12.5.jar -s:progetto.xml -xsl:trasformazione.xsl -o:progetto.html
+java -jar "./SaxonHE12-5J/saxon-he-12.5.jar" -s:progetto.xml -xsl:trasformazione.xsl -o:progetto.html
 ```
 
